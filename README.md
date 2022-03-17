@@ -15,3 +15,4 @@
 ## Requirements or Prerequisites
 
 - Good understanding of ES2015 JavaScript
+- Good understanding of Node.js
